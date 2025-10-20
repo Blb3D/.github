@@ -42,3 +42,12 @@ Custom printed models, prototypes, and production parts made in Indiana.
 <p align="center">
   <em>“Between the commas of a .gcode file — that’s where our handwriting lives.”</em>
 </p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Blb3D">
+    <img src="https://raw.githubusercontent.com/Blb3D/.github/main/profile/blb3d-footer-badge.png" 
+         width="400" alt="BLB3D Labs — See your AI’s heartbeat">
+  </a>
+</p>
