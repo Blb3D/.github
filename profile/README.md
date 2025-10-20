@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/profile-banner.png" width="100%" alt="BLB3D Labs bronze wave banner with logo and tagline">
+  <img src="profile-banner.png" width="100%" alt="BLB3D Labs bronze wave banner with logo and tagline">
 </p>
 
 <h1 align="center">🧱 BLB3D Labs</h1>
